@@ -1,5 +1,5 @@
 package test220809;
-//[백준/JAVA] 1000번 A+B
+//[백준/JAVA] 1000번 A+B 
 import java.util.Scanner;
 public class Main1000 {
 

@@ -1,5 +1,5 @@
 package test220809;
-//[백준/JAVA] 10869번 사칙연산
+//[백준/JAVA] 10869번 사칙연산 
 import java.util.Scanner;
 public class Main10869 {
 

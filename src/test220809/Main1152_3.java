@@ -1,5 +1,5 @@
 package test220809;
-//[백준/JAVA] 1152번 단어의 개수
+//[백준/JAVA] 1152번 단어의 개수 
 import java.util.Scanner;
 public class Main1152_3 {
 
